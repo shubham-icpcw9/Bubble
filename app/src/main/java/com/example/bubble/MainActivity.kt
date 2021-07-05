@@ -55,5 +55,4 @@ class MainActivity : AppCompatActivity() {
         }
         MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
     }
-
 }

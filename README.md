@@ -1,6 +1,6 @@
 # Bubble - News at your fingertips
 
-- Built an android application that bring the most relevant and recent news to your touch screen
+- Built an android application that brings the most relevant and recent news to your touch screen
 
 - Used Third-party libraries – Volley and Glide
 
